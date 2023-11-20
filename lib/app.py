@@ -1,5 +1,0 @@
-print("Hello world! Pass this test, please.")
-print("hello sun" ,end="")
-print("hello moon",end="!!")
-print("hello earth",end="!!!\n")
-print("sky")
